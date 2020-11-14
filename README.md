@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**ethanfuerst/ethanfuerst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ethan Fuerst, a Data Analyst based in Austin, TX.
 
-Here are some ideas to get you started:
+## 💻 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[tidbitstatistics.com](https://www.tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses
+* **[NBA Dashboard](https://github.com/ethanfuerst/nba_vis)** - NBA Season Dashboard using Dash and Plotly
+
+## 🎓 What I'm learning
+
+* 🌱 I’m always improving my python skills, but I'm focused on creating applications with Dash and Plotly right now
+
+## 📣 Where you can reach me
+
+* **[💼 LinkedIn](https://www.linkedin.com/in/ethanfuerst)** - [/in/ethanfuerst](https://www.linkedin.com/in/ethanfuerst)
+* **[📧 Email](mailto:ethanfuerst@gmail.com)** -  [kieran • dothq • co](mailto:ethanfuerst@gmail.com)
+* **[🐦 Twitter](https://twitter.com/ethanfuerst27)** - [@ethanfuerst27](https://twitter.com/ethanfuerst27)
+
+## 📊 Statistics
+
+![bruh](https://github-readme-stats.vercel.app/api?username=ethanfuerst&show_icons=true)
+
+[![GitHub metrics](https://metrics.lecoq.io/ethanfuerst?base.community=0&base.repositories=0&base.metadata=0)](https://github.com/lowlighter/metrics)
+
+[![HitCount](https://hits.dwyl.com/ethanfuerst/ethanfuerst.svg)](http://hits.dwyl.com/ethanfuerst/ethanfuerst)
