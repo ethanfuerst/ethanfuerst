@@ -5,7 +5,7 @@ I'm Ethan Fuerst, a Data Analyst based in Austin, TX.
 ## 💻 What I'm working on
 
 * **[tidbitstatistics.com](https://www.tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses
-* **[NBA Dashboard](https://github.com/ethanfuerst/nba_vis)** - NBA Season Dashboard using Dash and Plotly
+* **[NBA Dashboard](https://tidbitstatistics.com/nba-season-dashboard/)** - NBA Season Dashboard using Dash and Plotly
 
 ## 🎓 What I'm learning
 
