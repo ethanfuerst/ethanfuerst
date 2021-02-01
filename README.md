@@ -8,10 +8,12 @@ I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 * **[NBA Dashboard](https://tidbitstatistics.com/nba-dashboard/)** - Dashboard displaying up to date standings and statistics
 * **[IMDb Ratings Dashboard](https://tidbitstatistics.com/imdb-ratings-dashboard/)** - Check out what movies I like! (and the ones I don't)
 * **[MPG Dashboard](https://tidbitstatistics.com/mpg-dashboard/)** - I've tracked every time I've filled up my car with gas since I got it. Here's what the data looks like 
+* **[$BTC Dashboard](https://tidbitstatistics.com/bitcoin-dashboard/)** - Keeping track of Bitcoin
 
 ## 🎓 What I'm learning
 
-* 🌱 I’m always improving my python skills, but I'm focused on creating applications with Dash and Plotly right now
+* 🌱 I’m always improving my python skills, but I'm focused on creating applications with Dash and Plotly right now.
+* 🔜 D3.js is up next on my plate of data visualization tools to learn
 
 ## 📣 Where you can reach me
 
