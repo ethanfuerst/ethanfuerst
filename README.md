@@ -2,7 +2,7 @@
 
 I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 
-## 💻 What I'm working on
+## 💻 What I've been working on
 
 * **[tidbitstatistics.com](https://www.tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses
 * **[NBA Dashboard](https://tidbitstatistics.com/nba-dashboard/)** - Dashboard displaying up to date standings and statistics
@@ -10,10 +10,10 @@ I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 * **[MPG Dashboard](https://tidbitstatistics.com/mpg-dashboard/)** - I've tracked every time I've filled up my car with gas since I got it. Here's what the data looks like 
 * **[$BTC Dashboard](https://tidbitstatistics.com/bitcoin-dashboard/)** - Keeping track of Bitcoin
 
-## 🎓 What I'm learning
+## 🎓 What I'm learning/doing
 
-* 🌱 I’m always improving my python skills, but I'm focused on creating applications with Dash and Plotly right now.
-* 🔜 D3.js is up next on my plate of data visualization tools to learn
+* 🌱 I’m always improving my python skills, but I'm focused on adding functionality to my dashboards with Dash and Plotly right now.
+* 🔜 D3.js is up next of packages that I want to learn.
 
 ## 📣 Where you can reach me
 
@@ -23,7 +23,7 @@ I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 
 ## 📊 Statistics
 
-![bruh](https://github-readme-stats.vercel.app/api?username=ethanfuerst&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ethanfuerst&show_icons=true)
 
 [![GitHub metrics](https://metrics.lecoq.io/ethanfuerst?base.community=0&base.repositories=0&base.metadata=0)](https://github.com/lowlighter/metrics)
 
