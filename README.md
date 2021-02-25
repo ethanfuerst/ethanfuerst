@@ -25,6 +25,6 @@ I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ethanfuerst&show_icons=true)
 
-[![GitHub metrics](https://metrics.lecoq.io/thanfuerst?base.community=0&base.repositories=0&base.metadata=0)](https://github.com/lowlighter/metrics)
+[![GitHub metrics](https://metrics.lecoq.io/ethanfuerst?base.community=0&base.repositories=0&base.metadata=0)](https://github.com/lowlighter/metrics)
 
 [![HitCount](https://hits.dwyl.com/ethanfuerst/ethanfuerst.svg)](http://hits.dwyl.com/ethanfuerst/ethanfuerst)
