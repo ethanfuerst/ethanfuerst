@@ -13,7 +13,7 @@ I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 ## 🎓 What I'm learning/doing
 
 * 🌱 I’m always improving my python skills, but I'm focused on adding functionality to my dashboards with Dash and Plotly right now.
-* 🔜 D3.js is up next of packages that I want to learn.
+* 🔜 D3.js is what I want to learn next.
 
 ## 📣 Where you can reach me
 
