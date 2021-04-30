@@ -19,7 +19,7 @@ I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 
 * **[💼 LinkedIn](https://www.linkedin.com/in/ethanfuerst)** - [/in/ethanfuerst](https://www.linkedin.com/in/ethanfuerst)
 * **[📧 Email](mailto:ethanfuerst@gmail.com)** -  [ethanfuerst@gmail.com](mailto:ethanfuerst@gmail.com)
-* **[🐦 Twitter](https://twitter.com/ethanfuerst27)** - [@ethanfuerst27](https://twitter.com/ethanfuerst27)
+* **[🐦 Twitter](https://twitter.com/ethanfuerst)** - [@ethanfuerst27](https://twitter.com/ethanfuerst)
 
 ## 📊 Statistics
 
