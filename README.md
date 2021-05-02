@@ -13,7 +13,7 @@ I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 ## 🎓 What I'm learning/doing
 
 * 🌱 I’m always improving my python skills, but I'm focused on adding functionality to my dashboards with Dash and Plotly right now.
-* 🔜 I'm also working on understanding Flask apps
+* 🔜 I'm also working on understanding flask and streamlit apps
 
 ## 📣 Where you can reach me
 
