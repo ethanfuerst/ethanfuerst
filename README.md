@@ -10,7 +10,7 @@ I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
 * **[Venmo Splitter](https://tidbitstatistics.com/venmo-splitter/)** - Streamlit app to figure out how much to charge your friends after a night out.
 * **[MPG Dashboard](https://tidbitstatistics.com/mpg-dashboard/)** - I've tracked every time I've filled up my car with gas since I got it. Here's what the data looks like 
 * **[$BTC Dashboard](https://tidbitstatistics.com/bitcoin-dashboard/)** - Keeping track of Bitcoin
-* **[Deal or No Deal Text-Based Game](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
+* **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
 
 ## 🎓 What I'm learning/doing
 
