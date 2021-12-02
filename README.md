@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ethan Fuerst, a Data Analyst based out of Austin, TX.
+I'm Ethan Fuerst, a Data Analyst based out of New York City.
 
 ## 💻 What I've been working on
 
