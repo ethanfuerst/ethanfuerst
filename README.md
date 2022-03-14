@@ -8,14 +8,15 @@ I'm Ethan Fuerst, a Data Analyst based out of New York City.
 * **[NBA Dashboard](https://tidbitstatistics.com/nba-dashboard/)** - Dashboard displaying up to date standings and statistics
 * **[IMDb Ratings Dashboard](https://tidbitstatistics.com/imdb-ratings-dashboard/)** - Check out what movies I like! (and the ones I don't)
 * **[Venmo Splitter](https://tidbitstatistics.com/venmo-splitter/)** - Streamlit app to figure out how much to charge your friends after a night out.
-* **[MPG Dashboard](https://tidbitstatistics.com/mpg-dashboard/)** - I've tracked every time I've filled up my car with gas since I got it. Here's what the data looks like 
+* **[MPG Dashboard](https://tidbitstatistics.com/mpg-dashboard/)** - I've tracked every time I've filled up my car with gas since I got it. Here's what the data looks like.
 * **[$BTC Dashboard](https://tidbitstatistics.com/bitcoin-dashboard/)** - Keeping track of Bitcoin
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
+* **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/pull/264)** - Tidbyt App displaying 24-hour crypto price changes
 
 ## 🎓 What I'm learning/doing
 
-* 🌱 I’m always improving my python skills, but I'm focused on adding functionality to my dashboards with Dash and Plotly right now.
-* 🔜 I'm also working on understanding flask and streamlit apps
+* 🌱 I’m always improving my python skills, but I'm focused on building [Tidbyt Apps](https://github.com/tidbyt/community) right now.
+* 🔜 I'm also working on understanding Flask.
 
 ## 📣 Where you can reach me
 
