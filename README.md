@@ -13,15 +13,9 @@ I'm Ethan Fuerst, a Data Analyst based out of New York City.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/pull/264)** - Tidbyt App displaying 24-hour crypto price changes
 
-## 🎓 What I'm learning/doing
-
-* 🌱 I’m always improving my python skills, but I'm focused on building [Tidbyt Apps](https://github.com/tidbyt/community) right now.
-* 🔜 I'm also working on understanding Flask.
-
 ## 📣 Where you can reach me
 
 * **[💼 LinkedIn](https://www.linkedin.com/in/ethanfuerst)** - [/in/ethanfuerst](https://www.linkedin.com/in/ethanfuerst)
-* **[📧 Email](mailto:ethanfuerst@gmail.com)** -  [ethanfuerst@gmail.com](mailto:ethanfuerst@gmail.com)
 * **[🐦 Twitter](https://twitter.com/ethanfuerst)** - [@ethanfuerst](https://twitter.com/ethanfuerst)
 
 ## 📊 Statistics
