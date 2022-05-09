@@ -1,5 +1,6 @@
 I'm Ethan Fuerst, a Data Analyst based out of New York City.
 
+
 * **[tidbitstatistics.com](https://www.tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses
 * **[NBA Dashboard](https://tidbitstatistics.com/nba-dashboard/)** - Dashboard displaying up to date standings and statistics
 * **[IMDb Ratings Dashboard](https://tidbitstatistics.com/imdb-ratings-dashboard/)** - Check out what movies I like! (and the ones I don't)
@@ -8,6 +9,7 @@ I'm Ethan Fuerst, a Data Analyst based out of New York City.
 * **[$BTC Dashboard](https://tidbitstatistics.com/bitcoin-dashboard/)** - Keeping track of Bitcoin
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes
+
 
 * **[💼 LinkedIn](https://www.linkedin.com/in/ethanfuerst)** - [/in/ethanfuerst](https://www.linkedin.com/in/ethanfuerst)
 * **[🐦 Twitter](https://twitter.com/ethanfuerst)** - [@ethanfuerst](https://twitter.com/ethanfuerst)
