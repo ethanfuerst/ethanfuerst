@@ -1,5 +1,8 @@
+## Hi there 👋
+
 I'm Ethan Fuerst, a Data Analyst based out of New York City.
 
+## 💻 What I've been working on
 
 * **[tidbitstatistics.com](https://www.tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses
 * **[NBA Dashboard](https://tidbitstatistics.com/nba-dashboard/)** - Dashboard displaying up to date standings and statistics
@@ -10,9 +13,12 @@ I'm Ethan Fuerst, a Data Analyst based out of New York City.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes
 
+## 📣 Where you can reach me
 
 * **[💼 LinkedIn](https://www.linkedin.com/in/ethanfuerst)** - [/in/ethanfuerst](https://www.linkedin.com/in/ethanfuerst)
 * **[🐦 Twitter](https://twitter.com/ethanfuerst)** - [@ethanfuerst](https://twitter.com/ethanfuerst)
+
+## 📊 Statistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ethanfuerst&show_icons=true)
 
