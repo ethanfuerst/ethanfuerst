@@ -1,24 +1,25 @@
-## Hi there 👋
+## Who?
 
-I'm Ethan Fuerst, a Data Analyst based out of New York City.
+I'm Ethan Fuerst, a Data Analyst based out of New York City. While my day-to-day is in analytics, most of my side projects consist of some sort of software engineering.
 
-## 💻 What I've been working on
+## What?
 
-* **[tidbitstatistics.com](https://www.tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses
-* **[NBA Dashboard](https://tidbitstatistics.com/nba-dashboard/)** - Dashboard displaying up to date standings and statistics
-* **[IMDb Ratings Dashboard](https://tidbitstatistics.com/imdb-ratings-dashboard/)** - Check out what movies I like! (and the ones I don't)
-* **[Venmo Splitter](https://tidbitstatistics.com/venmo-splitter/)** - Streamlit app to figure out how much to charge your friends after a night out.
-* **[MPG Dashboard](https://tidbitstatistics.com/mpg-dashboard/)** - I've tracked every time I've filled up my car with gas since I got it. Here's what the data looks like.
-* **[$BTC Dashboard](https://tidbitstatistics.com/bitcoin-dashboard/)** - Keeping track of Bitcoin
+* **[tidbitstatistics.com](https://www.tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards
+  * The dashboards that I've made cover topics including [The NBA](https://tidbitstatistics.com/nba-dashboard/), [IMDb Ratings](https://tidbitstatistics.com/imdb-ratings-dashboard/), [MPG](https://tidbitstatistics.com/mpg-dashboard/), and [$BTC](https://tidbitstatistics.com/bitcoin-dashboard/)
+  * [Venmo Splitter](https://tidbitstatistics.com/venmo-splitter/) - Streamlit app to figure out how much to charge your friends after a night out.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes
 
-## 📣 Where you can reach me
+## When?
 
-* **[💼 LinkedIn](https://www.linkedin.com/in/ethanfuerst)** - [/in/ethanfuerst](https://www.linkedin.com/in/ethanfuerst)
-* **[🐦 Twitter](https://twitter.com/ethanfuerst)** - [@ethanfuerst](https://twitter.com/ethanfuerst)
+Not sure how to answer this one.
 
-## 📊 Statistics
+## Where?
+
+* **[LinkedIn](https://www.linkedin.com/in/ethanfuerst)** - [/in/ethanfuerst](https://www.linkedin.com/in/ethanfuerst)
+* **[Twitter](https://twitter.com/ethanfuerst)** - [@ethanfuerst](https://twitter.com/ethanfuerst)
+
+## etc.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ethanfuerst&show_icons=true)
 
