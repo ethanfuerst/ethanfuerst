@@ -10,16 +10,27 @@ I'm Ethan Fuerst, a Data Analyst based out of New York City. While my day-to-day
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes
 
+### Languages & Tools
+
+<img alt="python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img alt="sql" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="postgresql" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 ## When?
 
 Not sure how to answer this one.
 
 ## Where?
 
-* **[LinkedIn](https://www.linkedin.com/in/ethanfuerst)** - [/in/ethanfuerst](https://www.linkedin.com/in/ethanfuerst)
-* **[Twitter](https://twitter.com/ethanfuerst)** - [@ethanfuerst](https://twitter.com/ethanfuerst)
+[<img align="left" alt="ethanfuerst | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ethanfuerst)
 
-## etc.
+[<img align="" alt="ethanfuerst | LnkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ethanfuerst/)
+
+## etc
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ethanfuerst&show_icons=true)
 
