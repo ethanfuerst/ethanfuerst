@@ -24,7 +24,7 @@ Not sure how to answer this one.
 
 ## Where?
 
-[<img align="left" alt="ethanfuerst | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ethanfuerst)
+[<img align="" alt="ethanfuerst | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ethanfuerst)
 
 [<img align="" alt="ethanfuerst | LnkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ethanfuerst/)
 
