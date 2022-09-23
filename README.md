@@ -4,7 +4,7 @@ I'm Ethan Fuerst, a Data Analyst based out of New York City. While my day-to-day
 
 ## What?
 
-* **[tidbitstatistics.com](http://tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards
+* **[tidbitstatistics.com](http://tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards. Code [here](https://github.com/ethanfuerst/tidbitstatistics).
   * The dashboards that I've made cover topics including [The NBA](http://tidbitstatistics.com/dashboards/nba/), [IMDb Ratings](http://tidbitstatistics.com/dashboards/imdb_ratings/), [MPG](http://tidbitstatistics.com/dashboards/mpg/), and [$BTC](http://tidbitstatistics.com/dashboards/bitcoin/)
   * [Venmo Splitter](http://tidbitstatistics.com/dashboards/venmo_splitter/) - Streamlit app to figure out how much to charge your friends after a night out.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game
