@@ -24,6 +24,8 @@ vs code, aws, terminal
 
 [<img align="" alt="ethanfuerst | LnkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ethanfuerst/)
 
+Check out my [gists](https://gist.github.com/ethanfuerst), too!
+
 ## etc
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ethanfuerst&show_icons=true)
