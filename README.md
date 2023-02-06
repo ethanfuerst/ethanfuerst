@@ -4,7 +4,7 @@ I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. Wh
 
 ## What?
 
-* **[tidbitstatistics.com](http://tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards. Code [here](https://github.com/ethanfuerst/tidbitstatistics).
+* **[tidbitstatistics.com](https://www.tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards. Code [here](https://github.com/ethanfuerst/tidbitstatistics).
   * [Venmo Splitter](http://tidbitstatistics.com/dashboards/venmo_splitter/) - Streamlit app to figure out how much to charge your friends after a night out. Code [here](https://github.com/ethanfuerst/venmo-splitter).
   * The dashboards that I've made cover topics including [The NBA](http://tidbitstatistics.com/dashboards/nba/), [IMDb Ratings](http://tidbitstatistics.com/dashboards/imdb_ratings/), [MPG](http://tidbitstatistics.com/dashboards/mpg/), and [$BTC](http://tidbitstatistics.com/dashboards/bitcoin/). Code [here](https://github.com/ethanfuerst?tab=repositories&q=plotly).
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes. Code in bold link.
