@@ -1,6 +1,6 @@
 ## Who?
 
-I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. While my day-to-day is in analytics, most of my side projects consist of some sort of software engineering.
+I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. While my day-to-day consists of Analytics Engineering at Brooklyn Data Company, most of my side projects consist of some sort of software engineering.
 
 ## What?
 
