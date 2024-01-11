@@ -10,10 +10,13 @@ I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. Wh
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes.
 * **[Tidbyt Please Stand By App](https://github.com/tidbyt/community/pull/909)** - Tidbyt App displaying a "Please Stand By" message.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game.
+* **Other Stuff** - [Box office draft](https://github.com/ethanfuerst/box-office-tracking), [etls](https://github.com/ethanfuerst/weatherstocking), [calming my nerves about the CFP with math](https://github.com/ethanfuerst/cfp_pct/blob/main/calc.py), [misc. stuff](https://github.com/ethanfuerst/time-travel-dwh/blob/main/data_creator.py)
 
 ### Languages & Tools
 
 python, sql, git
+
+airflow, dbt, dagster
 
 vs code, aws, terminal
 
