@@ -1,4 +1,4 @@
-I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. While my day-to-day consists of Data Engineering, most of my side projects can consist of anything, but probably data somehow. Check out my [blog](ethanfuerst.com).
+I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. While my day-to-day consists of Data Engineering, most of my side projects can consist of anything, but probably data somehow. Check out my [blog](www.ethanfuerst.com).
 
 * **[tidbitstatistics.com](https://tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards. Code [here](https://github.com/ethanfuerst/tidbitstatistics).
   * [Venmo Splitter](http://tidbitstatistics.com/dashboards/venmo_splitter/) - Streamlit app to figure out how much to charge your friends after a night out. Code [here](https://github.com/ethanfuerst/venmo-splitter).
