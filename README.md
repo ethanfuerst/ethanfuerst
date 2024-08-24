@@ -1,11 +1,10 @@
 I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. While my day-to-day consists of Data Engineering, most of my side projects can consist of anything, but probably data somehow. Check out my [blog](https://www.ethanfuerst.com).
 
-* **[tidbitstatistics.com](https://tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards. Code [here](https://github.com/ethanfuerst/tidbitstatistics).
-  * [Venmo Splitter](http://tidbitstatistics.com/dashboards/venmo_splitter/) - Streamlit app to figure out how much to charge your friends after a night out. Code [here](https://github.com/ethanfuerst/venmo-splitter).
-  * The dashboards that I've made cover topics including [The NBA](http://tidbitstatistics.com/dashboards/nba/), [IMDb Ratings](http://tidbitstatistics.com/dashboards/imdb_ratings/), [MPG](http://tidbitstatistics.com/dashboards/mpg/), and [$BTC](http://tidbitstatistics.com/dashboards/bitcoin/). Code [here](https://github.com/ethanfuerst?tab=repositories&q=plotly).
+* **[tidbitstatistics.com](https://tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards.
 * **[Auditory Almanac](https://github.com/ethanfuerst/the-auditory-almanac)** - Dockerized web app that helps you analyze your Spotify streams.
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes.
 * **[Tidbyt Please Stand By App](https://github.com/tidbyt/community/tree/main/apps/pleasestandby)** - Tidbyt App displaying a "Please Stand By" message.
+* **[Venmo Splitter](http://tidbitstatistics.com/dashboards/venmo_splitter/)** - Streamlit app to figure out how much to charge your friends after a night out.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game.
 * **Other Stuff** - [Box office draft](https://github.com/ethanfuerst/box-office-tracking), [etls](https://github.com/ethanfuerst/weatherstocking), [calming my nerves about the CFP with math](https://github.com/ethanfuerst/cfp_pct/blob/main/calc.py), [misc. stuff](https://github.com/ethanfuerst/time-travel-dwh/blob/main/data_creator.py)
 
