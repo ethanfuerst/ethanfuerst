@@ -1,9 +1,9 @@
 I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. While my day-to-day consists of Data Engineering, most of my side projects can consist of anything, but probably data somehow. Check out my [blog](https://www.ethanfuerst.com).
 
 * **[tidbitstatistics.com](https://tidbitstatistics.com)** - My portfolio where I talk about my projects more in depth.
-* **[Auditory Almanac](https://github.com/ethanfuerst/the-auditory-almanac)** - Dockerized web app that helps you analyze your Spotify streams.
-* **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes.
-* **[Tidbyt Please Stand By App](https://github.com/tidbyt/community/tree/main/apps/pleasestandby)** - Tidbyt App displaying a "Please Stand By" message.
+* **[Auditory Almanac](https://github.com/ethanfuerst/the-auditory-almanac)** - Dockerized web app that helps you analyze your Spotify streaming history.
+* **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - [Tidbyt](https://tidbyt.com/) App displaying 24-hour crypto price changes.
+* **[Tidbyt Please Stand By App](https://github.com/tidbyt/community/tree/main/apps/pleasestandby)** - [Tidbyt](https://tidbyt.com/) App displaying a "Please Stand By" message.
 * **[Venmo Splitter](http://tidbitstatistics.com/dashboards/venmo_splitter/)** - Streamlit app to figure out how much to charge your friends after a night out.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game.
 * **Other Stuff** - [Box office draft](https://github.com/ethanfuerst/box-office-tracking), [etls](https://github.com/ethanfuerst/weatherstocking), [calming my nerves about the CFP with math](https://github.com/ethanfuerst/cfp_pct/blob/main/calc.py), [misc. stuff](https://github.com/ethanfuerst/time-travel-dwh/blob/main/data_creator.py)
