@@ -1,6 +1,6 @@
 I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. While my day-to-day consists of Data Engineering, most of my side projects can consist of anything, but probably data somehow. Check out my [blog](https://www.ethanfuerst.com).
 
-* **[tidbitstatistics.com](https://tidbitstatistics.com)** - My blog/portfolio where I publish some of my analyses and dashboards.
+* **[tidbitstatistics.com](https://tidbitstatistics.com)** - My portfolio where I talk about my projects more in depth.
 * **[Auditory Almanac](https://github.com/ethanfuerst/the-auditory-almanac)** - Dockerized web app that helps you analyze your Spotify streams.
 * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Tidbyt App displaying 24-hour crypto price changes.
 * **[Tidbyt Please Stand By App](https://github.com/tidbyt/community/tree/main/apps/pleasestandby)** - Tidbyt App displaying a "Please Stand By" message.
