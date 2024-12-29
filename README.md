@@ -2,23 +2,18 @@ I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. Wh
 
 * **[tidbitstatistics.com](https://tidbitstatistics.com)** - My portfolio where I talk about my projects more in depth.
 * **[Auditory Almanac](https://github.com/ethanfuerst/the-auditory-almanac)** - Dockerized web app that helps you analyze your Spotify streaming history.
-* **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - [Tidbyt](https://tidbyt.com/) App displaying 24-hour crypto price changes.
-* **[Tidbyt Please Stand By App](https://github.com/tidbyt/community/tree/main/apps/pleasestandby)** - [Tidbyt](https://tidbyt.com/) App displaying a "Please Stand By" message.
+* I've made 2 [Tidbyt](https://tidbyt.com/) apps
+  * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Displays 24-hour crypto price changes.
+  * **[Tidbyt Please Stand By App](https://github.com/tidbyt/community/tree/main/apps/pleasestandby)** - Displays a "Please Stand By" message.
 * **[Venmo Splitter](http://tidbitstatistics.com/dashboards/venmo_splitter/)** - Streamlit app to figure out how much to charge your friends after a night out.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game.
 * **Other Stuff** - [Box office draft](https://github.com/ethanfuerst/box-office-tracking), [etls](https://github.com/ethanfuerst/weatherstocking), [calming my nerves about the CFP with math](https://github.com/ethanfuerst/cfp_pct/blob/main/calc.py), [misc. stuff](https://github.com/ethanfuerst/time-travel-dwh/blob/main/data_creator.py)
 
 ## skills
 
-python, sql, git
-
-airflow, dagster
-
-vs code, aws, terminal
+python, sql, etc.
 
 ## social
-
-[<img align="" alt="ethanfuerst | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ethanfuerst)
 
 [<img align="" alt="ethanfuerst | LnkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ethanfuerst/)
 
