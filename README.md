@@ -2,12 +2,13 @@ I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. Wh
 
 * **[tidbitstatistics.com](https://tidbitstatistics.com)** - My portfolio where I talk about my projects more in depth.
 * **[Auditory Almanac](https://github.com/ethanfuerst/the-auditory-almanac)** - Dockerized web app that helps you analyze your Spotify streaming history.
+* **[Box Office Tracking]([https://github.com/ethanfuerst/the-auditory-almanac](https://github.com/ethanfuerst/box-office-tracking))** - Track a box office draft in a google sheet.
 * I've made 2 [Tidbyt](https://tidbyt.com/) apps
   * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Displays 24-hour crypto price changes.
   * **[Tidbyt Please Stand By App](https://github.com/tidbyt/community/tree/main/apps/pleasestandby)** - Displays a "Please Stand By" message.
 * **[Venmo Splitter](http://tidbitstatistics.com/dashboards/venmo_splitter/)** - Streamlit app to figure out how much to charge your friends after a night out.
 * **[Deal or No Deal](https://github.com/ethanfuerst/deal-or-no-deal)** - Simple text-based Deal or No Deal game.
-* **Other Stuff** - [Box office draft](https://github.com/ethanfuerst/box-office-tracking), [etls](https://github.com/ethanfuerst/weatherstocking), [calming my nerves about the CFP with math](https://github.com/ethanfuerst/cfp_pct/blob/main/calc.py), [misc. stuff](https://github.com/ethanfuerst/time-travel-dwh/blob/main/data_creator.py)
+* **Other Stuff** - [etls](https://github.com/ethanfuerst/chrono), [calming my nerves about the CFP with math](https://github.com/ethanfuerst/cfp_pct/blob/main/calc.py), [misc. stuff](https://github.com/ethanfuerst/time-travel-dwh/blob/main/data_creator.py)
 
 ## skills
 
