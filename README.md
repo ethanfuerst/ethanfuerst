@@ -2,7 +2,6 @@ I'm Ethan Fuerst, a Data/Software/Analytics/Engineering guy based out of NYC. Wh
 
 * **[tidbitstatistics.com](https://tidbitstatistics.com)** - My portfolio where I talk about my projects more in depth.
 * **[Auditory Almanac](https://github.com/ethanfuerst/the-auditory-almanac)** - Dockerized web app that helps you analyze your Spotify streaming history.
-* **[Box Office Tracking](https://github.com/ethanfuerst/box-office-tracking)** - Tracking box office data in S3.
 * **[Box Office Drafting](https://github.com/ethanfuerst/box-office-drafting)** - Track a box office draft in a google sheet.
 * I've made 2 [Tidbyt](https://tidbyt.com/) apps
   * **[Tidbyt Cryto Tracker App](https://github.com/tidbyt/community/tree/main/apps/cryptotracker)** - Displays 24-hour crypto price changes.
